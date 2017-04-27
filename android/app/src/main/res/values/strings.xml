@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">ubwDY3hucXrDSWzeamj8C5mcDQ4a4J5Pep99M</string>
+    <string name="app_name">Lights</string>
+</resources>
